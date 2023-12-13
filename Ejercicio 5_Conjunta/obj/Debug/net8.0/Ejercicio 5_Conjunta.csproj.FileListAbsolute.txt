@@ -1,0 +1,14 @@
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\Ejercicio 5_Conjunta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\Ejercicio 5_Conjunta.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\Ejercicio 5_Conjunta.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\Ejercicio 5_Conjunta.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\bin\Debug\net8.0\Ejercicio 5_Conjunta.exe
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\bin\Debug\net8.0\Ejercicio 5_Conjunta.deps.json
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\bin\Debug\net8.0\Ejercicio 5_Conjunta.runtimeconfig.json
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\bin\Debug\net8.0\Ejercicio 5_Conjunta.dll
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\bin\Debug\net8.0\Ejercicio 5_Conjunta.pdb
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\Ejercicio 5_Conjunta.dll
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\refint\Ejercicio 5_Conjunta.dll
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\Ejercicio 5_Conjunta.pdb
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\Ejercicio 5_Conjunta.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\Ejercicio 5_Conjunta\obj\Debug\net8.0\ref\Ejercicio 5_Conjunta.dll
